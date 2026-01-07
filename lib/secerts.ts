@@ -1,1 +1,2 @@
-export const GOOGLE_AI_STUDIO_API_KEY = "AIzaSyAVkRFA1TnSJGm2OEHEZ";
+++ b/lib/secerts.ts
+export const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
